@@ -28,7 +28,7 @@ sudo systemctl enable jenkins
 * Install Java in agent
 * Select Non verification strategy
 
-* Sonar
+### Sonar
 
 🐞 Bugs
 An issue representing a coding error that will likely cause unexpected behavior or application failure. This seems fine but sometimes it may break in production.
